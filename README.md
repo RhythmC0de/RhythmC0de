@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Olá, eu sou Wefferson Matheus
 
-<!--
-**RhythmC0de/RhythmC0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em programação e lógica de software  
+🚀 Buscando estágio ou emprego Júnior em TI
 
-Here are some ideas to get you started:
+### 🧠 Sobre mim
+Sou estudante de ADS, com conhecimentos em lógica de programação, HTML, CSS e Python.
+Busco minha primeira oportunidade profissional para aprender, evoluir e contribuir
+com projetos reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+- Python (em aprendizado)
+- HTML5
+- CSS3
+- Lógica de Programação
+
+### 📌 Projetos
+- Exercícios de lógica em Python
+- Páginas web básicas com HTML e CSS
+
+### 🎯 Objetivo
+Conseguir uma oportunidade de estágio ou emprego júnior em TI, desenvolvendo habilidades técnicas e profissionais.
