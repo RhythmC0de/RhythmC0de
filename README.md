@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Wefferson Matheus
+## 👋 Olá, eu sou Matheus
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focado em programação e lógica de software  
