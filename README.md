@@ -17,3 +17,5 @@ Sou desenvolvedor fullstack em formação, Atualmente estou estudando arquitetur
 * Boas práticas de frontend e backend
 * Segurança em aplicações
 * Estruturação de projetos para produção
+
+[![Telegram](https://img.shields.io)](https://t.me/wmatheusalves)
