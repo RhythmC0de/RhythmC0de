@@ -17,12 +17,3 @@ Sou desenvolvedor fullstack em formação, Atualmente estou estudando arquitetur
 * Boas práticas de frontend e backend
 * Segurança em aplicações
 * Estruturação de projetos para produção
-
----
-
-## 🤝 Contato
-
-* LinkedIn: [www.linkedin.com/in/matheus-alves-760583222]
-* Telegram: [t.me/wmatheusalves]
-
----
